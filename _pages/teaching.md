@@ -1,0 +1,24 @@
+---
+layout: archive
+title: "Teaching New"
+permalink: /teaching/
+author_profile: true
+---
+
+## Teaching Experience at University of North Texas
+
+### As an Instructor:
+
+- **FINA 4300: Financial Statement Analysis and Liquidity Management** Fall 2025 (Scheduled)
+- **FINA 4300: Financial Statement Analysis and Liquidity Management** Spring 2025
+- **FINA 4300: Financial Statement Analysis and Liquidity Management** Fall 2024
+- **FINA 3770: Introduction to Finance** Spring 2024
+- **FINA 3770: Introduction to Finance** Fall 2023
+
+### As a Teaching Assistant:
+
+- **BLAW 3430: Legal and Ethical Environment of Business** Summer 2024
+- **FINA 3770: Introduction to Finance** Spring/Fall 2023
+- **FINA 5170: Financial Management** Fall 2022
+- **FINA 3770: Introduction to Finance** Spring 2022
+- **FINA 3770: Introduction to Finance** Fall 2021
