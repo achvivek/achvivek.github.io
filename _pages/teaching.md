@@ -31,9 +31,9 @@ author_profile: true
 **From FINA 3770:Introduction to Finance**
 
 - *Prof Acharya for sure!! He helped us so much and genuinely showed how much he cared for our success by offering multiple office hours and taking the time out of his day to help us understand the material. It was evident how much he cares.*
-- *Prof Acharya challenged each of us in this class by solving problems during the class time and helping us with questions similar to the homework. He asked us questions throughout him explaining it to help us understand more.*
 - *When I asked a question that I didn't understand, the professor explained it in detail and in an easy-to-understand manner, which helped me solve my doubts.*
-- 
+- *Prof Acharya challenged each of us in this class by solving problems during the class time and helping us with questions similar to the homework. He asked us questions throughout him explaining it to help us understand more.*
+  
 <br>
 
 
