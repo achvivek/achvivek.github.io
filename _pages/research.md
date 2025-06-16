@@ -34,8 +34,6 @@ suggesting that the market values management practices. These results underscore
 impacts of carbon emission policies on firm value and highlight the importance of focusing on the
 details of firm climate policies.
 
-<br>
-
 **Enhanced Board Oversight Duties and Governance Practice: Evidence from DelawareSupreme Court’s Decision** (Solo-authored)
 
 <br>
