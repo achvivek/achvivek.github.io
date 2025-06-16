@@ -5,6 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-## CV
-
-[Download CV here]({{ site.baseurl }}/files/CV.pdf)
+[Click here to view my CV]({{ site.baseurl }}/files/CV.pdf)
