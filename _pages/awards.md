@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Awards"
+title: "Honors and Awards"
 permalink: /awards/
 author_profile: true
 ---
 
-## **Honors, Awards and Nominations**
+## **Honors and Awards**
 
 - Doctoral Student Research Award, FIREL Department, UNT 2025
 
