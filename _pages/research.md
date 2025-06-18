@@ -22,17 +22,19 @@ low carbon economy.
 ## Working Papers
 
 **Stock Price Effects of Cross-Country Climate Deals: Evidence from the Surprise US-China Climate Accord** (with Stuart Gillan and Nga Nguyen)<br>
-*Abstract:* This paper explores the surprise US-China climate deal on November 10, 2021, aimed
-at reducing carbon emissions in both countries. It focuses on how this bilateral effort to curb
-carbon emissions influences investor behavior and the market values of companies, particularly
-those with varying levels of carbon emissions and carbon emission management practices. We
-find that firms with high Carbon Emission Scores and Carbon Emission Management Scores are
-associated with positive abnormal returns around the deal announcement, particularly in the United
-States, indicating a market preference for proactive carbon management. Additionally, firms with
-low Emissions Intensity and high Carbon Management Scores had significantly higher returns,
-suggesting that the market values management practices. These results underscore the varying
-impacts of carbon emission policies on firm value and highlight the importance of focusing on the
-details of firm climate policies.
+*Abstract:* We study the surprise US-China climate deal on November 10, 2021, aimed at reducing
+carbon emissions in both countries. Specifically, in an unexpected news announcement, United
+States climate envoy John Kerry and his Chinese counterpart Xie Zhenhua announced a bilateral
+effort to curb carbon emissions. Paper focus on samples of both US and Chinese firms, provides insights into the potential for international political commitments aimed at limiting carbon emissions
+to influence firms’ market value. We find that firms with high Carbon Emission Scores and Carbon
+Emission Management Scores – reflecting proactive strategies and policies to manage and reduce
+carbon emissions – experienced positive abnormal returns around the deal announcement, particularly US-based firms, suggesting that the market viewed the agreement as net benefit for these
+US-based companies. Furthermore, firms with high Carbon Emission Management Score experienced significantly higher returns during the deal announcement, regardless of whether they had
+high or low carbon emission intensity. This suggests that the market values effective management
+of carbon emissions over the absolute level of emissions. However, there is no evidence of a value
+effect for Chinese firms. These results underscore the varying impacts of carbon emission policies
+on firm value and highlight the importance of focusing on not just an aggregate environmental or
+carbon emissions score, but more refined measures of corporate environmental.
 
 **Enhanced Board Oversight Duties and Governance Practice: Evidence from DelawareSupreme Court’s Decision** (Solo-authored)
 
