@@ -9,7 +9,7 @@ author_profile: true
 
 ### As an Instructor:
 
-- **FINA 4300: Financial Statement Analysis and Liquidity Management** Fall 2025 (Scheduled)
+- **FINA 4300: Financial Statement Analysis and Liquidity Management** Fall 2025
 - **FINA 4300: Financial Statement Analysis and Liquidity Management** Spring 2025
 - **FINA 4300: Financial Statement Analysis and Liquidity Management** Fall 2024
 - **FINA 3770: Introduction to Finance** Spring 2024
